@@ -7,7 +7,7 @@
 
 ## 🚀 Skills & Technologies  
 
- **Frontend:** HTML, CSS  
+- **Frontend:** HTML, CSS  
 - **Backend & Frameworks:** Laravel, MySQL  
 - **Programming Languages:** C, C++, Java, Python  
 
